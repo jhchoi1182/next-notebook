@@ -1,0 +1,11 @@
+.header {
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid teal;
+  border-radius: 8px;
+  height: 50px;
+}
+
+.nav a {
+  padding: 0 8px;
+}
